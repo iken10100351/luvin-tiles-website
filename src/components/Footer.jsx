@@ -7,8 +7,8 @@ const Footer = () => {
         LUVIN <span className="text-[#c1a97d]">Australia</span>
       </div>
       <p className="text-sm">&copy; 2025 LUVIN Australia.</p>
-      <p className="text-sm">1B 31 Paringa Road, Murarrie QLD 4172</p>
-      <p className="text-sm">(07) 3707 6602</p>
+      <p className="text-sm">..</p>
+      <p className="text-sm">..</p>
     </footer>
   );
 };

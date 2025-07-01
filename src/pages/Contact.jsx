@@ -58,11 +58,11 @@ const Contact = () => {
           <div className="bg-[#b89b72] text-white p-8 rounded-lg space-y-4 shadow">
             <div>
               <h3 className="text-lg font-semibold">Address:</h3>
-              <p>1B 31 Paringa Road Murarrie QLD 4172</p>
+              <p>..</p>
             </div>
             <div>
               <h3 className="text-lg font-semibold">Phone:</h3>
-              <p>(07) 3707 6602</p>
+              <p>..</p>
             </div>
             <div>
               <h3 className="text-lg font-semibold">Hours:</h3>
