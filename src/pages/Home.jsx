@@ -20,12 +20,12 @@ export default function HomePage() {
           className="w-full h-full"
         >
           {[
-            '/images/Tile-banner/banner1.jpg',
-            '/images/Tile-banner/banner2.jpg',
-            '/images/Tile-banner/banner3.jpg',
-            '/images/Tile-banner/banner4.jpg',
-            '/images/Tile-banner/banner5.jpg',
-            '/images/Tile-banner/banner6.jpg',
+            '/images/Tile-banner/banner1.webp',
+            '/images/Tile-banner/banner2.webp',
+            '/images/Tile-banner/banner3.webp',
+            '/images/Tile-banner/banner4.webp',
+            '/images/Tile-banner/banner5.webp',
+            '/images/Tile-banner/banner6.webp',
           ].map((src, index) => (
             <SwiperSlide key={index}>
               <div className="relative w-full h-screen">
@@ -49,32 +49,32 @@ export default function HomePage() {
             {
               name: "Base Decor",
               images: [
-                "/images/Base_Decor/banner2.jpg", 
-                "/images/Base_Decor/banner3.jpg",
-                "/images/Base_Decor/banner4.jpg",
-                "/images/Base_Decor/banner5.jpg",
-                "/images/Base_Decor/banner6.jpg",
-                "/images/Base_Decor/banner7.jpg",
+                "/images/Base_Decor/banner2.webp", 
+                "/images/Base_Decor/banner3.webp",
+                "/images/Base_Decor/banner4.webp",
+                "/images/Base_Decor/banner5.webp",
+                "/images/Base_Decor/banner6.webp",
+                "/images/Base_Decor/banner7.webp",
               ],
               pdf: "/files/Base_Decor.pdf"
             },
             {
               name: "Ceramic mosics",
               images: [
-                "/images/Ceramic_mosics/banner1.jpg", 
-                "/images/Ceramic_mosics/banner2.jpg",
-                "/images/Ceramic_mosics/banner3.jpg",
-                "/images/Ceramic_mosics/banner4.jpg",
+                "/images/Ceramic_mosics/banner1.webp", 
+                "/images/Ceramic_mosics/banner2.webp",
+                "/images/Ceramic_mosics/banner3.webp",
+                "/images/Ceramic_mosics/banner4.webp",
               ],
               pdf: "/files/Ceramic_mosics.pdf"
             },
             {
               name: "Flower Bird",
               images: [
-                "/images/Flower_bird/banner1.jpg", 
-                "/images/Flower_bird/banner2.jpg",
-                "/images/Flower_bird/banner3.jpg",
-                "/images/Flower_bird/banner4.jpg",
+                "/images/Flower_bird/banner1.webp", 
+                "/images/Flower_bird/banner2.webp",
+                "/images/Flower_bird/banner3.webp",
+                "/images/Flower_bird/banner4.webp",
               ],
               pdf: "/files/Flower_bird.pdf"
             },
@@ -123,7 +123,7 @@ export default function HomePage() {
           {/* Image */}
           <div>
             <img
-              src="/images/home.png"
+              src="/images/home.webp"
               alt="About ROMA DILUO"
               className="w-full h-auto rounded-xl shadow-lg"
             />

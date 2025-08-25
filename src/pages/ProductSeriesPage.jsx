@@ -36,7 +36,7 @@ const ProductSeriesPage = () => {
     <div className="pt-20 pb-16 px-6 md:px-16 bg-gray-50 min-h-screen">
       <div className="mb-6">
         <Link to="/products" className="text-blue-600 hover:underline text-sm">
-          ← 返回所有系列
+          ←View All Series
         </Link>
       </div>
 

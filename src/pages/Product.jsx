@@ -6,51 +6,51 @@ import SeriesCard from "../components/SeriesCard";
 
 const classicPlainSeries = [
   {
-    name: "通体低吸梯级砖",
-    image: "/images/product/Low_Absorption_Stair_Tile/Beige_Sand .png",
-    description: "高安全性的楼梯专用砖，适用于内外场所。"
+    name: "Full-Body Low-Absorption Stair Tile",
+    image: "/images/product/Low_Absorption_Stair_Tile/Beige_Sand .webp",
+    description: "Engineered for enhanced safety, these tiles are specifically designed for stair applications, suitable for both indoor and outdoor environments."
   },
   {
-    name: "低吸通体耐磨砖（SG系列）",
-    image: "/images/product/Full-Body_Low_Absorption_Tile (SG Series)/Golden_Sand.png",
-    description: "砂感细腻，耐磨性强，适合高频区域。"
+    name: "Low-Absorption Full-Body Wear-Resistant Tile (SG Series)",
+    image: "/images/product/Full-Body_Low_Absorption_Tile (SG Series)/Golden_Sand.webp",
+    description: "Featuring a refined sand-like texture with superior abrasion resistance, ideal for high-traffic commercial and residential spaces."
   },
   {
-    name: "低吸通体耐磨砖（N系列）",
-    image: "/images/product/Full-Body_Low_Absorption_Tile (N Series)/Crackstone.png",
-    description: "耐脏、低吸水，专为厨房与阳台设计。"
+    name: "Low-Absorption Full-Body Wear-Resistant Tile (N Series)",
+    image: "/images/product/Full-Body_Low_Absorption_Tile (N Series)/Crackstone.webp",
+    description: "With excellent stain resistance and low water absorption, this series is specially crafted for kitchens and balconies."
   },
   {
-    name: "低吸通体耐磨砖（平面）",
-    image: "/images/product/Low-absorption_through-body_wear-resistant_bricks(flat)/Cloud_Sandstone.png",
-    description: "表面平整光滑，现代简约风格首选。"
+    name: "Low-Absorption Full-Body Wear-Resistant Tile (Flat Surface)",
+    image: "/images/product/Low-absorption_through-body_wear-resistant_bricks(flat)/Cloud_Sandstone.webp",
+    description: "A smooth and even finish that complements modern minimalist design, making it a top choice for contemporary interiors."
   },
   {
-    name: "原边仿古（半抛亮面系列）",
-    image: "/images/product/Raw_Edge_Antique(Semi-Polished Glossy Series)/Fog_Stone.png",
-    description: "融合亮面与仿古风格，复古而不失现代感。"
+    name: "Natural Edge Rustic Tile (Semi-Polished Series)",
+    image: "/images/product/Raw_Edge_Antique(Semi-Polished Glossy Series)/Fog_Stone.webp",
+    description: "Combining a semi-polished surface with rustic character, this series achieves a timeless vintage look with a modern touch."
   },
   {
-    name: "原边仿古（亚光系列）",
-    image: "/images/product/Original_Edge_Antique(Matte Series)/Bruma.png",
-    description: "经典亚光质感，还原复古工艺。"
+    name: "Natural Edge Rustic Tile (Matte Series)",
+    image: "/images/product/Original_Edge_Antique(Matte Series)/Bruma.webp",
+    description: "Classic matte finish that faithfully reflects traditional craftsmanship, offering an authentic rustic appeal."
   },
   
 ];
 const artTileSeries=[
   {
     name: "艺术砖（方）",
-    image: "/images/product/Art_Tile(Square)/Joycourt.png",
+    image: "/images/product/Art_Tile(Square)/Joycourt.webp",
     description: "经典亚光质感，还原复古工艺。"
   },
   {
     name: "艺术砖（长）",
-    image: "/images/product/Art_Tile (long)/Color_Rhapsody_Series.png",
+    image: "/images/product/Art_Tile (long)/Color_Rhapsody_Series.webp",
     description: "经典亚光质感，还原复古工艺。"
   },
   {
     name: "艺术砖（组图）",
-    image: "/images/product/Art_Tile(group photo)/No_Name_19.png",
+    image: "/images/product/Art_Tile(group photo)/No_Name_19.webp",
     description: "经典亚光质感，还原复古工艺。"
   },
 
@@ -66,7 +66,7 @@ const Products = () => {
 
   {/* 第一块：经典砖系列 */}
   <h2 className="text-3xl font-bold text-center text-gray-800 mb-10">
-    Classic Plain Tile 系列
+    Classic Plain Tile Collection
   </h2>
   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
     {classicPlainSeries.map((series, idx) => (
