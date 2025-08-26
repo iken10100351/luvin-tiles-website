@@ -39,19 +39,19 @@ const classicPlainSeries = [
 ];
 const artTileSeries=[
   {
-    name: "艺术砖（方）",
+    name: "Art Tile (Square Series)",
     image: "/images/product/Art_Tile(Square)/Joycourt.webp",
-    description: "经典亚光质感，还原复古工艺。"
+    description: "A timeless square-format tile with a classic matte finish, designed to bring vintage charm and versatile elegance into modern interiors."
   },
   {
-    name: "艺术砖（长）",
+    name: "Art Tile (Rectangular Series)",
     image: "/images/product/Art_Tile (long)/Color_Rhapsody_Series.webp",
-    description: "经典亚光质感，还原复古工艺。"
+    description: "Rectangular tiles with refined matte textures, combining geometric balance and artisanal heritage for creative, linear design expressions."
   },
   {
-    name: "艺术砖（组图）",
+    name: "Art Tile (Collection Series)",
     image: "/images/product/Art_Tile(group photo)/No_Name_19.webp",
-    description: "经典亚光质感，还原复古工艺。"
+    description: "A curated range of artistic tiles in varied dimensions, crafted to capture traditional craftsmanship while offering diverse design possibilities."
   },
 
 ]
@@ -76,7 +76,7 @@ const Products = () => {
 
   {/* 第二块：艺术砖系列 */}
   <h2 className="text-3xl font-bold text-center text-gray-800 mt-20 mb-10">
-    Art Tile 系列
+    Art Tile Collection
   </h2>
   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
     {artTileSeries.map((series, idx) => (
