@@ -5,12 +5,12 @@ import "aos/dist/aos.css";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Product from "./pages/Product";
-import About from './pages/About';
+import About from "./pages/About";
 import Footer from "./components/Footer";
 import Contact from "./pages/Contact";
-import ThankYou from "./pages/ThankYou";
 import ProductSeriesPage from "./pages/ProductSeriesPage";
 import Sustainability from "./pages/Sustainability";
+import Samples from "./pages/Samples"; 
 
 const App = () => {
   useEffect(() => {
@@ -25,11 +25,11 @@ const App = () => {
         <Route path="/products" element={<Product />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/thankyou.html" element={<ThankYou />} />
+        <Route path="/sample" element={<Samples />} /> 
         <Route path="/products/:series" element={<ProductSeriesPage />} />
         <Route path="/sustainability" element={<Sustainability />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </>
   );
 };

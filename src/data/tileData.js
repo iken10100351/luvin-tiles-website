@@ -8,7 +8,7 @@ export const tileData = {
     "size": "300x300mm and 180x600mm",
     "description": "Slip-resistant stair tile with warm beige tones.",
     "details": "Designed for safety and style, Beige Sand offers low water absorption and excellent surface grip. Its natural sandy hue enhances modern interiors while ensuring long-lasting durability in staircases.",
-    "image": "/images/product/Low_Absorption_Stair_Tile/Beige_Sand .webp",
+    "image": "/images/product/Low_Absorption_Stair_Tile/Beige_Sand.webp",
     "series": "Full-Body Low-Absorption Stair Tile"
   },
   {
