@@ -1,8 +1,4 @@
-# ① 强制 HTTPS（无条件 301）
-http://*   https://:splat   301!
 
-# ② 统一到 www（把裸域跳到 www）
-https://luvinau.com/*   https://www.luvinau.com/:splat   301!
 
 # ③ SPA fallback（你已经有）
 /*   /index.html   200
