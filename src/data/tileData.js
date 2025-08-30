@@ -854,7 +854,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Amber_Veil.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Dawnlight Pact",
   "color": "Dawnlight Pact",
@@ -863,7 +863,7 @@ export const tileData = {
   "details": "Dawnlight Pact celebrates the warmth of morning hues in an artistic ceramic form. This tile is perfect for uplifting bathrooms, bedrooms, or serene feature walls.",
   "image": "/images/product/Art_Tile(Square)/Dawnlight_Pact.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Crimson Scorch",
@@ -894,7 +894,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Ocean_Tendril.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Amber Enclave",
   "color": "Amber Enclave",
@@ -903,7 +903,7 @@ export const tileData = {
   "details": "Amber Enclave delivers golden warmth through an artistic, textured finish. Highly durable, it enhances feature walls, kitchens, and dining spaces with inviting elegance.",
   "image": "/images/product/Art_Tile(Square)/Amber_Enclave.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Wilderness Ridge",
@@ -934,7 +934,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Burnt_Orange.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Golden Blooming Vines",
   "color": "Golden Blooming Vines",
@@ -943,8 +943,8 @@ export const tileData = {
   "details": "Golden Blooming Vines adds artistic elegance with floral-inspired golden patterns. Its durability and detailed surface make it ideal for statement walls and luxury interiors.",
   "image": "/images/product/Art_Tile(Square)/Golden_Blooming_Vines.webp",
   "series": "Art Tile (Square Series)"
-},
-{
+}, 马赛克严重等待候补*/
+/* {
   "type": "Art Tile (Square)",
   "title": "Golden Dusk Clay",
   "color": "Golden Dusk Clay",
@@ -953,8 +953,8 @@ export const tileData = {
   "details": "Golden Dusk Clay blends earthy tones with golden highlights for refined charm. Built with resilience, it is perfect for kitchens, accent walls, or decorative interiors.",
   "image": "/images/product/Art_Tile(Square)/Golden_Dusk_Clay.webp",
   "series": "Art Tile (Square Series)"
-},
-{
+}, 马赛克严重等待候补*/
+/* {
   "type": "Art Tile (Square)",
   "title": "Golden Feather Dawn",
   "color": "Golden Feather Dawn",
@@ -963,8 +963,8 @@ export const tileData = {
   "details": "Golden Feather Dawn reflects soft, organic patterns with a luxurious golden finish. Its versatile design works beautifully in both classic and contemporary decorative spaces.",
   "image": "/images/product/Art_Tile(Square)/Golden_Feather_Dawn.webp",
   "series": "Art Tile (Square Series)"
-},
-{
+}, 马赛克严重等待候补*/
+/* {
   "type": "Art Tile (Square)",
   "title": "Golden Chalice Dream",
   "color": "Golden Chalice Dream",
@@ -973,7 +973,7 @@ export const tileData = {
   "details": "Golden Chalice Dream offers opulence through its decorative artistry and rich golden tone. Resistant to wear, it elevates interiors with luxury and creative expression.",
   "image": "/images/product/Art_Tile(Square)/Golden_Chalice_Dream.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Spice Bloom",
@@ -1024,7 +1024,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Winter_Ashes.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Sunny Vinea Court",
   "color": "Sunny Vinea Court",
@@ -1033,7 +1033,7 @@ export const tileData = {
   "details": "Sunny Vinea Court captures natural warmth and organic flow, perfect for uplifting interiors. Designed for durability, it enhances feature walls, kitchens, and creative designs.",
   "image": "/images/product/Art_Tile(Square)/Sunny_Vinea_Court.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
   
   {
   "type": "Art Tile (Square)",
@@ -1045,7 +1045,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Emberstone.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Earthen Gleam",
   "color": "Earthen Gleam",
@@ -1054,7 +1054,7 @@ export const tileData = {
   "details": "Earthen Gleam reflects organic beauty through earthy tones and subtle sheen. Built with strength, it enhances rustic, industrial, and contemporary design spaces.",
   "image": "/images/product/Art_Tile(Square)/Earthen_Gleam.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Terra Glow",
@@ -1065,7 +1065,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Terra_Glow.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Earthen Whisper",
   "color": "Earthen Whisper",
@@ -1074,8 +1074,8 @@ export const tileData = {
   "details": "Earthen Whisper delivers understated beauty with muted shades and a gentle artistic surface. Durable and versatile, it blends naturally into warm, welcoming interiors.",
   "image": "/images/product/Art_Tile(Square)/Earthen_Whisper.webp",
   "series": "Art Tile (Square Series)"
-},
-{
+}, 马赛克严重等待候补*/
+/* {
   "type": "Art Tile (Square)",
   "title": "Earthen Ripple",
   "color": "Earthen Ripple",
@@ -1084,7 +1084,7 @@ export const tileData = {
   "details": "Earthen Ripple showcases organic wave-like patterns, bringing depth and movement into interiors. Its durable finish makes it perfect for walls, entryways, and accent spaces.",
   "image": "/images/product/Art_Tile(Square)/Earthen_Ripple.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Copper Ember",
@@ -1115,7 +1115,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Flame_Waltz.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Flarewing Gleam",
   "color": "Flarewing Gleam",
@@ -1124,7 +1124,7 @@ export const tileData = {
   "details": "Flarewing Gleam combines imaginative artistry with luminous accents. Its durable surface makes it an excellent choice for decorative walls and statement interiors.",
   "image": "/images/product/Art_Tile(Square)/Flarewing_Gleam.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Golden Tapestry",
@@ -1135,7 +1135,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Golden_Tapestry.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/*  {
   "type": "Art Tile (Square)",
   "title": "Moonlit Sand Whisper",
   "color": "Moonlit Sand Whisper",
@@ -1144,7 +1144,7 @@ export const tileData = {
   "details": "Moonlit Sand Whisper captures the elegance of nightfall with subtle sandy tones. Versatile and resilient, it elevates bedrooms, bathrooms, and creative interior walls.",
   "image": "/images/product/Art_Tile(Square)/Moonlit_Sand_Whisper.webp",
   "series": "Art Tile (Square Series)"
-},
+},马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Mist Grey Realm",
@@ -1175,7 +1175,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Rusty_Ember.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Crimson Bloom",
   "color": "Crimson Bloom",
@@ -1184,7 +1184,7 @@ export const tileData = {
   "details": "Crimson Bloom makes a strong statement with its floral-inspired artistry. Perfect for high-impact walls, it balances bold aesthetics with practical strength.",
   "image": "/images/product/Art_Tile(Square)/Crimson_Bloom.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Terracotta Glow",
@@ -1235,7 +1235,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Earthen_Ember.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Azure Echo Art",
   "color": "Azure Echo Art",
@@ -1244,7 +1244,7 @@ export const tileData = {
   "details": "Azure Echo Art channels serene aquatic tones into interiors, offering a bold yet refined surface. Perfect for creative walls, it provides durability and visual flair.",
   "image": "/images/product/Art_Tile(Square)/Azure_Echo_art.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Twilight Abyss",
@@ -1305,7 +1305,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Smoky_Iron.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Rose Medallion",
   "color": "Rose Medallion",
@@ -1314,7 +1314,7 @@ export const tileData = {
   "details": "Rose Medallion combines classic decorative motifs with a modern rosy finish. Its artistic surface enriches interiors with elegance and timeless charm.",
   "image": "/images/product/Art_Tile(Square)/Rose_Medallion.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Ivory Dusk",
@@ -1385,7 +1385,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Floral_Prelude.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Wind Chime Harmony",
   "color": "Wind Chime Harmony",
@@ -1394,8 +1394,8 @@ export const tileData = {
   "details": "Wind Chime Harmony blends natural rhythm with artistic design. Its gentle tones make it perfect for bedrooms, lounges, and tranquil spaces.",
   "image": "/images/product/Art_Tile(Square)/Wind_Chime_Harmony.webp",
   "series": "Art Tile (Square Series)"
-},
-{
+}, 马赛克严重等待候补*/
+/* {
   "type": "Art Tile (Square)",
   "title": "Umber Petal Spin",
   "color": "Umber Petal Spin",
@@ -1404,8 +1404,8 @@ export const tileData = {
   "details": "Umber Petal Spin adds a natural floral dynamic with earthy tones. Durable and artistic, it’s ideal for rustic interiors and accent walls.",
   "image": "/images/product/Art_Tile(Square)/Umber_Petal_Spin.webp",
   "series": "Art Tile (Square Series)"
-},
-{
+}, 马赛克严重等待候补*/
+/* {
   "type": "Art Tile (Square)",
   "title": "Floral Canopy Whisper",
   "color": "Floral Canopy Whisper",
@@ -1414,7 +1414,7 @@ export const tileData = {
   "details": "Floral Canopy Whisper captures the gentle charm of botanical artistry. It brings warmth and elegance to bedrooms, hallways, and living spaces.",
   "image": "/images/product/Art_Tile(Square)/Floral_Canopy_Whisper.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Verdant Blossom Trace",
@@ -1435,7 +1435,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Golden_Sienna.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Crimson Blaze Bloom",
   "color": "Crimson Blaze Bloom",
@@ -1444,7 +1444,7 @@ export const tileData = {
   "details": "Crimson Blaze Bloom delivers a bold and artistic statement with its fiery tones. Its durable surface enhances accent walls and high-impact spaces.",
   "image": "/images/product/Art_Tile(Square)/Crimson_Blaze_Bloom.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Dawn Ivory",
@@ -1455,7 +1455,7 @@ export const tileData = {
   "image": "/images/product/Art_Tile(Square)/Dawn_Ivory.webp",
   "series": "Art Tile (Square Series)"
 },
-{
+/* {
   "type": "Art Tile (Square)",
   "title": "Crimson Bloom Vine",
   "color": "Crimson Bloom Vine",
@@ -1464,7 +1464,7 @@ export const tileData = {
   "details": "Crimson Bloom Vine integrates bold red hues with flowing vine patterns. Perfect for artistic walls and statement interiors, combining beauty and resilience.",
   "image": "/images/product/Art_Tile(Square)/Crimson_Bloom_Vine.webp",
   "series": "Art Tile (Square Series)"
-},
+}, 马赛克严重等待候补*/
 {
   "type": "Art Tile (Square)",
   "title": "Verdigris Trace",

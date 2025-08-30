@@ -91,7 +91,7 @@ export default function Navbar() {
             </div>
           </div>
           <NavLink to="/sample" className={pillClass}>
-              Casese
+              Project Casese
           </NavLink>
           <NavLink to="/sustainability" className={pillClass}>
             Sustainability
