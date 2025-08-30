@@ -1525,7 +1525,7 @@ export const tileData = {
     "image": "/images/product/Art_Tile (long)/Clarity_Nimbus_Series.webp",
     "series": "Art Tile (Rectangular Series)"
   },
-  {
+  /* {
     "type": "Art Tile (Long)",
     "title": "Terracotta Crest",
     "color": "Terracotta Crest",
@@ -1534,7 +1534,7 @@ export const tileData = {
     "details": "Terracotta Crest blends earthy warmth with artisanal detailing. Ideal for rustic kitchens, outdoor-inspired interiors, or accent walls, it provides both visual richness and structural strength.",
     "image": "/images/product/Art_Tile (long)/Terracotta_Crest.webp",
     "series": "Art Tile (Rectangular Series)"
-  },
+  }, 马赛克严重等待候补*/
   {
     "type": "Art Tile (Long)",
     "title": "Crimson Lattice Realm Series",
@@ -1565,7 +1565,7 @@ export const tileData = {
     "image": "/images/product/Art_Tile (long)/Jade_Pavilion_Motif.webp",
     "series": "Art Tile (Rectangular Series)"
   },
-  {
+  /* {
     "type": "Art Tile (Long)",
     "title": "Indigo Crest",
     "color": "Indigo Crest",
@@ -1574,7 +1574,7 @@ export const tileData = {
     "details": "Indigo Crest merges dramatic color depth with refined artistry. Perfect for modern feature walls and high-contrast interiors, it delivers both elegance and performance.",
     "image": "/images/product/Art_Tile (long)/Indigo_Crest.webp",
     "series": "Art Tile (Rectangular Series)"
-  },
+  }, 马赛克严重等待候补*/
   {
     "type": "Art Tile (Long)",
     "title": "Maple Rhapsody",
@@ -1655,7 +1655,7 @@ export const tileData = {
     "image": "/images/product/Art_Tile (long)/Rosy_Baroque.webp",
     "series": "Art Tile (Rectangular Series)"
   },
-  {
+  /* {
     "type": "Art Tile (Long)",
     "title": "Tales of Glazed Terra",
     "color": "Tales of Glazed Terra",
@@ -1664,8 +1664,8 @@ export const tileData = {
     "details": "Tales of Glazed Terra presents artisanal glaze with earthy terracotta tones, creating narrative-driven artistry. Its durable finish suits both modern and rustic spaces.",
     "image": "/images/product/Art_Tile (long)/Tales_of_Glazed_Terra.webp",
     "series": "Art Tile (Rectangular Series)"
-  },
-  {
+  }, 马赛克严重等待候补*/
+  /* {
     "type": "Art Tile (Long)",
     "title": "Ornate Tile Mini Series",
     "color": "Ornate Tile Mini Series",
@@ -1674,7 +1674,7 @@ export const tileData = {
     "details": "Ornate Tile Mini Series delivers finely detailed decorative artistry, adding sophistication to interiors. Its versatile scale makes it suitable for boutique projects and feature installations.",
     "image": "/images/product/Art_Tile (long)/Ornate_Tile_Mini_Series.webp",
     "series": "Art Tile (Rectangular Series)"
-  },
+  }, 马赛克严重等待候补*/
   {
     "type": "Art Tile (Long)",
     "title": "Tranquil Vine Trail",
